@@ -1,2 +1,5 @@
 # upgrad-git-practice
-To practice how git works
+
+## This is just a practice file.
+
+### I am learning to code.
